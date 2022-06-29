@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "892720038840",
+    "project_id": "latihannews",
+    "storage_bucket": "latihannews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892720038840:android:b02f2b06fb4830c37b054d",
+        "android_client_info": {
+          "package_name": "listgrid.com.myapplicationdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892720038840-ogu1rk8nanubrqr046di5g5aoa513snf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "listgrid.com.myapplicationdrawer",
+            "certificate_hash": "202939ff346c4c260cdd0e7d716061ca08470002"
+          }
+        },
+        {
+          "client_id": "892720038840-6q5s93d76jto54pr1hb0ftio2cl7nn60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSsluvHRIUtltwmCQ9xVZQs_bvm69Oy14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892720038840-6q5s93d76jto54pr1hb0ftio2cl7nn60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
